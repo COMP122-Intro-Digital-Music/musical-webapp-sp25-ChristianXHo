@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Chord Progression",
+    "file": "samples/Join_me_final.mp3",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": "0.071",
+    "overlap": 0.01
+  },
+  {
+    "name": "Warp sound",
+    "file": "samples/abletonsynthsound.mp3",
+    "bpm": "140",
+    "loop": "1m",
+    "grain": "0.071",
+    "overlap": 0.01
+  },
+  {
+    "name": "Better off alone",
+    "file": "samples/better_off_alone.mp3",
+    "bpm": "120",
+    "loop": "1m",
+    "grain": "0.101",
+    "overlap": 0.01
+  }
+]
