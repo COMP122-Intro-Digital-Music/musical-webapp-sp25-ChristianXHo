@@ -1,5 +1,36 @@
 [
   {
+    "name": "Sequence 2",
+    "loop": "1m",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:0:0.0",
+        "pitch": "F#4",
+        "dur": "8n.",
+        "vel": "1"
+      },
+      {
+        "time": "0:1:0.0",
+        "pitch": "F#4",
+        "dur": "8n.",
+        "vel": "1"
+      },
+      {
+        "time": "0:2:0.0",
+        "pitch": "C#5",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:3:0.undefined",
+        "pitch": "C#5",
+        "dur": "8n.",
+        "vel": "1"
+      }
+    ]
+  },
+  {
     "name": "Sequence 1",
     "loop": "1m",
     "octave": 0,
